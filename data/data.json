@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "ek-khwaish",
+      "image": "/posts/1.png",
+      "Content-type": "text/html",
+      "title": "Ek khwaish",
+      "content": "<h1>Afraid of the world, huh?</h1>",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "judaii",
+      "image": "/posts/2.png",
+      "Content-type": "text/html",
+      "title": "Judaii",
+      "content": "<h1>Litrally no words, i guess every lover felt this.</h1>",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "pain",
+      "image": "/posts/3.png",
+      "Content-type": "text/html",
+      "title": "Pain",
+      "content": "<h1>Yepp, thats right, you don't deserve pain, you deserve love.",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "sacchai",
+      "image": "/posts/4.png",
+      "Content-type": "text/html",
+      "title": "Sacchai",
+      "content": "<h1>Am such type of person jisko tume galey lagaoge to mein rone mein der nhi lagaunga.</h1>",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "neither",
+      "image": "/posts/5.png",
+      "Content-type": "text/html",
+      "title": "Neither",
+      "content": "<h1>I guess everyone can agree on this, yeh sacchai hai yaar, tumhe ise accept krna hi hoga! But agar tum iss situation mein nahi ho to boht acchi baat h.</h1>",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+}

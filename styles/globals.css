@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Inter&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+html,
+body {
+  height: 100vh;
+  font-family: "Inter", sans-serif;
+  background: url('../public/images/img\ \(4\).jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: #1d1d1d;
+    background-color: #dff2e5;
+  }
+}
+
+::selection {
+  background-color: #f00;
+  color: #fff;
+}
+
+
